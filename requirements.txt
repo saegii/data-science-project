@@ -1,0 +1,5 @@
+jupyterlab
+gcsfs
+numpy
+albumentations
+python-dotenv
