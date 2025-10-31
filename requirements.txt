@@ -3,3 +3,4 @@ gcsfs
 numpy
 albumentations
 python-dotenv
+ultralytics

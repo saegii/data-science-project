@@ -1,0 +1,5 @@
+train: ../../../data/augmented-cow-hooves
+val:  ../../../data/cow-hooves
+
+nc: 1   # number of classes
+names: ['ill']
