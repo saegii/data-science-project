@@ -1,3 +1,7 @@
+# Notebook outputs
 */.ipynb_checkpoints
+
+# Local development
 /data
 .env
+.venv
